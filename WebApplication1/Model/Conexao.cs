@@ -7,7 +7,7 @@ namespace WebApplication1.Model
     {
         public static string ConexaoBanco()
         {
-            return "host=localhost; database=teste; uid=root; pwd=@Oceifador20";
+            return "host=localhost; database=teste; uid=root; pwd=password";
         }
     }
 }
